@@ -55,7 +55,7 @@ const Blogs = () => {
           onClick={() => dispatch(fristUpLoad())}
           className={`btn  btn-sm mx-2 ${fristUp ? "btn-secondary" : null}`}
         >
-          Frist Upload
+          Recent Blogs
         </button>
         <button
           onClick={() => dispatch(lastUpLoad())}

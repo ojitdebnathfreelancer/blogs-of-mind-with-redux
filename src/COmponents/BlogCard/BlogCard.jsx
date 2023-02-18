@@ -23,7 +23,7 @@ const BlogCard = ({ blog }) => {
             {blog.title}
           </h1>
 
-          <p className="mt-2 text-gray-600 dark:text-gray-400">
+          <p className="mt-2 text-black">
             {blog.description.length > 170
               ? blog.description.slice(0, 170)
               : blog.description}

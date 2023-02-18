@@ -38,7 +38,7 @@ const Navbar = () => {
             to={"/"}
             className="btn btn-ghost  text-right normal-case text-2xl"
           >
-            Blogs Zone
+            Blogs Of Mind
           </Link>
         </div>
         <div className="navbar-end hidden lg:flex">

@@ -9,7 +9,7 @@ const Sidebar = () => {
   const menus = [
     {
       name: "All blogs",
-      link: "/dashboard/allBlogs",
+      link: "/dashboard",
       icon: FaBloggerB,
     },
     { name: "Add Blogs", link: "/dashboard/addBlog", icon: GoDiffAdded },

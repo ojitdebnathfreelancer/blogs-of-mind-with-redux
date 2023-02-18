@@ -21,7 +21,7 @@ const Footer = () => {
               </svg>
             </div>
             <span className="self-center text-2xl font-semibold">
-              Blogs Zone
+              Blogs Of Mind
             </span>
           </Link>
         </div>
